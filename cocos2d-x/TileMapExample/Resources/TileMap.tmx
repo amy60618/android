@@ -4,7 +4,7 @@
   <image source="tmw_desert_spacing.png" width="265" height="199"/>
  </tileset>
  <tileset firstgid="49" name="meta_tiles" tilewidth="32" tileheight="32" spacing="1" margin="1">
-  <image source="C:/Users/srk/Desktop/TileGameResources/TileGameResources/meta_tiles.png" width="67" height="34"/>
+  <image source="meta_tiles.png" width="67" height="34"/>
   <tile id="0">
    <properties>
     <property name="Collidable" value="True"/>
